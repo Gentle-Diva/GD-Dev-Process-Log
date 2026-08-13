@@ -1,3 +1,4 @@
+[Aug 13, 2026, 10:14] | I am busy styling and debugging the backend of the dashboard build.
 [Aug 12, 2026, 19:24] | I ran some commands in powershell to open launch a localhost for the dashboard.
 [Aug 12, 2026, 16:09] | I am installing node. js.
 [Aug 12, 2026, 16:09] | I am taking my time to understand the process and not just follow AI. I am using different tools to question/confirm another's output. Beyond copy and paste, understanding the workflow.
