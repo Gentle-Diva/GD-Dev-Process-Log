@@ -1,3 +1,4 @@
+[Aug 14, 2026, 12:21] | I am planning on making the live dashboard more like a web app. Sort of an interactive interface.
 [Aug 13, 2026, 10:14] | I am busy styling and debugging the backend of the dashboard build.
 [Aug 12, 2026, 19:24] | I ran some commands in powershell to open launch a localhost for the dashboard.
 [Aug 12, 2026, 16:09] | I am installing node. js.
