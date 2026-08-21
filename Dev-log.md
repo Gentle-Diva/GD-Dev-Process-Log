@@ -1,3 +1,4 @@
+[Aug 21, 2026, 20:24] | I added my webhook url in the jsx.
 [Aug 21, 2026, 20:24] | I added some jsx to my dashboard jsx in vs code. That wired intake for question about how the business is going.
 [Aug 21, 2026, 16:05] | Now, I move to wiring in webhook. Yayy.
 [Aug 21, 2026, 16:05] | I handcoded questions to the agent and it ran well. I used openai/gpt-oss-20b. I like the response.
