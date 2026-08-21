@@ -1,3 +1,4 @@
+[Aug 21, 2026, 20:25] | Now, I am debugging some stuff in the dashboard and n8n backend.
 [Aug 21, 2026, 20:24] | I added my webhook url in the jsx.
 [Aug 21, 2026, 20:24] | I added some jsx to my dashboard jsx in vs code. That wired intake for question about how the business is going.
 [Aug 21, 2026, 16:05] | Now, I move to wiring in webhook. Yayy.
