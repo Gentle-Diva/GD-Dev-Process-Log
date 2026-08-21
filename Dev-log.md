@@ -1,3 +1,4 @@
+[Aug 21, 2026, 16:01] | While the live dashboard is built to an extent, I built in intake system in n8n.
 [Aug 14, 2026, 12:24] | Logging sales and expenses. Seeing inventory live. Making requests for informed decisions. All on the interface.
 [Aug 14, 2026, 12:22] | It will not only display business activities live, it will also have entries logging on it.
 [Aug 14, 2026, 12:21] | I am planning on making the live dashboard more like a web app. Sort of an interactive interface.
