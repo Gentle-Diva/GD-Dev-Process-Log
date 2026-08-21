@@ -1,3 +1,4 @@
+[Aug 21, 2026, 21:00] | I am debugging a situation where AI agent is not able to call the right tool for a question asked via the dashboard but is correctly calling tools and answering questions handcoded in the agent.
 [Aug 21, 2026, 20:25] | Now, I am debugging some stuff in the dashboard and n8n backend.
 [Aug 21, 2026, 20:24] | I added my webhook url in the jsx.
 [Aug 21, 2026, 20:24] | I added some jsx to my dashboard jsx in vs code. That wired intake for question about how the business is going.
