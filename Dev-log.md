@@ -1,3 +1,4 @@
+[Aug 21, 2026, 16:04] | The build is with webhook but for test, before wiring in webhook, I used scheduled trigger and tested that the AI agent run that will fetch response from database in supabase through the sub-workflow call, will work.
 [Aug 21, 2026, 16:02] | I opted for a main workflow call sub-workflows as tools to check up whatever request is made about the business - revenue, sales, low stock and the likes.
 [Aug 21, 2026, 16:01] | While the live dashboard is built to an extent, I built in intake system in n8n.
 [Aug 14, 2026, 12:24] | Logging sales and expenses. Seeing inventory live. Making requests for informed decisions. All on the interface.
