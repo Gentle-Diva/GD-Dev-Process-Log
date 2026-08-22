@@ -1,3 +1,4 @@
+[Aug 22, 2026, 16:57] | Now at this v1, I can successfully log a sale, log a restock, ask anything about the business, see my revenue flow in live chart.
 [Aug 22, 2026, 16:02] | The tool (Get top product sub-workflow) was not responding to webhook call but was responding to manual call. I disconnected it in the main workflow. Unpublished it and reconnected back to main workflow. It ran successfully after republishing them.
 [Aug 21, 2026, 21:00] | I am debugging a situation where AI agent is not able to call the right tool for a question asked via the dashboard but is correctly calling tools and answering questions handcoded in the agent.
 [Aug 21, 2026, 20:25] | Now, I am debugging some stuff in the dashboard and n8n backend.
