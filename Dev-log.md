@@ -1,3 +1,4 @@
+[Aug 22, 2026, 19:07] | Recent activities can now be seen. Yes, products the business no longer want to sell can now be deactivated. Deactivated instead of removed/deleted, so the history can still be accessible.
 [Aug 22, 2026, 19:06] | I have expanded to include a 'add product' feature. If a new product is stocked.
 [Aug 22, 2026, 16:57] | Now at this v1, I can successfully log a sale, log a restock, ask anything about the business, see my revenue flow in live chart.
 [Aug 22, 2026, 16:02] | The tool (Get top product sub-workflow) was not responding to webhook call but was responding to manual call. I disconnected it in the main workflow. Unpublished it and reconnected back to main workflow. It ran successfully after republishing them.
