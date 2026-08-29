@@ -1,3 +1,4 @@
+[Aug 29, 2026, 21:12] | The live dashboard/chart will further have expenses, profits and other details the may need an overview.
 [Aug 29, 2026, 21:10] | I also have expenses logging. A business would need to log expenses to be able to eventually get the real profit.
 [Aug 29, 2026, 21:10] | I incorporated damaged goods logging. Returned good logging.
 [Aug 29, 2026, 21:09] | Alright. So, the page was getting long. It'll be good to have them in sections. So, I had them in sections. When I want to ask AI, I click on it from the sidebar and the page opens. Same for other sections.
