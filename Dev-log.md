@@ -1,3 +1,4 @@
+[Sep 8, 2026, 08:29] | Lotta progress made. Expenses are now reflecting on the dashboard.
 [Aug 29, 2026, 21:12] | The live dashboard/chart will further have expenses, profits and other details the may need an overview.
 [Aug 29, 2026, 21:10] | I also have expenses logging. A business would need to log expenses to be able to eventually get the real profit.
 [Aug 29, 2026, 21:10] | I incorporated damaged goods logging. Returned good logging.
