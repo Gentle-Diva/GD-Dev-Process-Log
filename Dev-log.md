@@ -1,3 +1,4 @@
+[Sep 8, 2026, 08:36] | To my AI layer, I added the ability to get product stock. That wasn't there before. A business may want to ask about stock or related though live inventory are also on the app.
 [Sep 8, 2026, 08:35] | Returned good can be traced accurately when logging as return. It adds back to existing stocks.
 [Sep 8, 2026, 08:34] | AI layer has a better interface. Each question has its timestamp.
 [Sep 8, 2026, 08:32] | Unlike before where questions asked can not be seen again or be referenced to, now there is memory and history.
