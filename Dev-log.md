@@ -1,3 +1,4 @@
+[Sep 8, 2026, 08:31] | I added chat history and chat thread to my AI layer.
 [Sep 8, 2026, 08:30] | I had back and forth testing out and ensuring my AI query addition was working accurately. Responding to questions a real user would ask.
 [Sep 8, 2026, 08:30] | Profits are well calculated from cost of goods sold (cogs), damaged stock, expenses and the likes. Accurate calculation.
 [Sep 8, 2026, 08:29] | Lotta progress made. Expenses are now reflecting on the dashboard.
