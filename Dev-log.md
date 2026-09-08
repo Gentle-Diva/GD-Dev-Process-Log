@@ -1,3 +1,4 @@
+[Sep 8, 2026, 08:35] | Returned good can be traced accurately when logging as return. It adds back to existing stocks.
 [Sep 8, 2026, 08:34] | AI layer has a better interface. Each question has its timestamp.
 [Sep 8, 2026, 08:32] | Unlike before where questions asked can not be seen again or be referenced to, now there is memory and history.
 [Sep 8, 2026, 08:31] | I added chat history and chat thread to my AI layer.
