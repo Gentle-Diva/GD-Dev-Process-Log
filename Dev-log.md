@@ -1,3 +1,4 @@
+[Sep 8, 2026, 08:32] | Unlike before where questions asked can not be seen again or be referenced to, now there is memory and history.
 [Sep 8, 2026, 08:31] | I added chat history and chat thread to my AI layer.
 [Sep 8, 2026, 08:30] | I had back and forth testing out and ensuring my AI query addition was working accurately. Responding to questions a real user would ask.
 [Sep 8, 2026, 08:30] | Profits are well calculated from cost of goods sold (cogs), damaged stock, expenses and the likes. Accurate calculation.
