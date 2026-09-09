@@ -1,3 +1,6 @@
+[Sep 9, 2026, 14:37] | I adjust to have logging feedback be beneath the action done. Earlier, after logging sales, the feedback, 'sale logged' show at the bottom (it began with two actions - sale & restock, so it was visible). 
+After additions, the feedback was no longer in sight and could make user thing it wasn't done and tries to relog, since there was no feedback. 
+I moved the feedback (inline-feedback) to show beneath the field, action done.
 [Sep 9, 2026, 14:34] | If the agent is unable to retrieve response at the back end, that is, it failed, my 'fetching...' button stays stuck. That could be misleading, making user maybe think its network or something but the backend RAG system already failed. No response so ever was gonna come.
 So, I updated it to return the button to 'Ask' when there wouldn't be any response to fetch or retrieve.
 [Sep 9, 2026, 14:31] | That's not a good UX. 
