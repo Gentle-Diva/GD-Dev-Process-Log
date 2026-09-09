@@ -1,3 +1,6 @@
+[Sep 9, 2026, 14:31] | That's not a good UX. 
+I then made adjustment for it. threadRef was added. This made my page load blank. No error message. Just blank. 
+After checking my browser console, I discovered there was no ref for the threadRef. So, I added useRef to my React state at the top of my jsx. This restored the page.
 [Sep 9, 2026, 14:29] | My AI chat thread was beginning at the top. Say, I have 15 conversations, its already a long list. However, when I open AI section, it starts at the top - the first message. I would have to scroll up to recent message.
 [Sep 8, 2026, 08:36] | To my AI layer, I added the ability to get product stock. That wasn't there before. A business may want to ask about stock or related though live inventory are also on the app.
 [Sep 8, 2026, 08:35] | Returned good can be traced accurately when logging as return. It adds back to existing stocks.
