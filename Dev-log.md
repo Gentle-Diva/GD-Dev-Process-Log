@@ -1,3 +1,4 @@
+[Sep 10, 2026, 04:39] | Delete the stale net_ptofit_summary made the details display on my screen, since there's a specific function that is called.
 [Sep 10, 2026, 04:38] | Earlier, AI was failing to get accurate data for specified day or number of days. And a start and end date rectified the issue.
 [Sep 10, 2026, 04:37] | The reason there was two was cos I added 'from date' and 'to date' to my function. So, when AI tries to retrieve data, it know when to start from and where to stop depending on request.
 [Sep 10, 2026, 04:36] | I realized that the other details on my overview tab - expenses, cogs, damaged stock... were not showing anymore. Digging deep, I realized it was failing to call net_profit_summary from database as there are two parameters for it now. It couldn't decide which to call. It then failed to call.
