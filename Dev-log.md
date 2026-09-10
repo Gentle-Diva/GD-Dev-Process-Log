@@ -1,3 +1,4 @@
+[Sep 10, 2026, 18:53] | Now, I am adding the feature for alert system that notifies on the interface when a product is going out of stock and needs reorder move taken promptly, to avoid product unavailability.
 [Sep 10, 2026, 05:05] | I just added the feature to make log sale tab return to default after logging a sale (or failing to). It used to retain the details logged in the box even after log. Now, it returns to default after logging.
 [Sep 10, 2026, 05:01] | My AI chat now starts/shows at the recent message, not the first.
 [Sep 10, 2026, 04:39] | Delete the stale net_ptofit_summary made the details display on my screen, since there's a specific function that is called.
