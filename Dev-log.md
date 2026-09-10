@@ -1,3 +1,4 @@
+[Sep 10, 2026, 05:01] | My AI chat now starts/shows at the recent message, not the first.
 [Sep 10, 2026, 04:39] | Delete the stale net_ptofit_summary made the details display on my screen, since there's a specific function that is called.
 [Sep 10, 2026, 04:38] | Earlier, AI was failing to get accurate data for specified day or number of days. And a start and end date rectified the issue.
 [Sep 10, 2026, 04:37] | The reason there was two was cos I added 'from date' and 'to date' to my function. So, when AI tries to retrieve data, it know when to start from and where to stop depending on request.
