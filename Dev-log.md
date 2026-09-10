@@ -1,3 +1,4 @@
+[Sep 10, 2026, 04:37] | The reason there was two was cos I added 'from date' and 'to date' to my function. So, when AI tries to retrieve data, it know when to start from and where to stop depending on request.
 [Sep 10, 2026, 04:36] | I realized that the other details on my overview tab - expenses, cogs, damaged stock... were not showing anymore. Digging deep, I realized it was failing to call net_profit_summary from database as there are two parameters for it now. It couldn't decide which to call. It then failed to call.
 [Sep 9, 2026, 14:37] | I adjust to have logging feedback be beneath the action done. Earlier, after logging sales, the feedback, 'sale logged' show at the bottom (it began with two actions - sale & restock, so it was visible). 
 After additions, the feedback was no longer in sight and could make user thing it wasn't done and tries to relog, since there was no feedback. 
