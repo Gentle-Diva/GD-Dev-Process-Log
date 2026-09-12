@@ -1,3 +1,5 @@
+[Sep 12, 2026, 18:14] | I am revamping, making an overhaul of the entire UI. 
+Before that, we are adding lotta relooks. Making some sql changes to database.
 [Sep 12, 2026, 18:13] | I am on adding an 'export' feature that permits the owner to export existing overview - profit breakdown and the likes.
 [Sep 10, 2026, 18:53] | Now, I am adding the feature for alert system that notifies on the interface when a product is going out of stock and needs reorder move taken promptly, to avoid product unavailability.
 [Sep 10, 2026, 05:05] | I just added the feature to make log sale tab return to default after logging a sale (or failing to). It used to retain the details logged in the box even after log. Now, it returns to default after logging.
