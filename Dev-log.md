@@ -1,3 +1,4 @@
+[Sep 12, 2026, 18:18] | I added a unit cost input (required) upon logging restock, since its possible that prices differ from the previous stocking. Then, I have weighted-average recompute for the sale calculation of the new restock for good selling price. If restock price changes, sale should as well change.
 [Sep 12, 2026, 18:14] | I am revamping, making an overhaul of the entire UI. 
 Before that, we are adding lotta relooks. Making some sql changes to database.
 [Sep 12, 2026, 18:13] | I am on adding an 'export' feature that permits the owner to export existing overview - profit breakdown and the likes.
