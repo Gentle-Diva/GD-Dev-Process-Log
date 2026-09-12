@@ -1,3 +1,4 @@
+[Sep 12, 2026, 18:19] | I added feature for lost products and stock adjustment. If it happens that there is mismatch in stock available and the system's count, they can be adjusted.
 [Sep 12, 2026, 18:18] | I added a unit cost input (required) upon logging restock, since its possible that prices differ from the previous stocking. Then, I have weighted-average recompute for the sale calculation of the new restock for good selling price. If restock price changes, sale should as well change.
 [Sep 12, 2026, 18:14] | I am revamping, making an overhaul of the entire UI. 
 Before that, we are adding lotta relooks. Making some sql changes to database.
